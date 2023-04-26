@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/roma-pizza/static/css/main.b6b059b4.css",
-    "main.js": "/roma-pizza/static/js/main.c7b0df24.js",
+    "main.js": "/roma-pizza/static/js/main.3dcadd87.js",
     "Cart.js": "/roma-pizza/static/js/Cart.b9dc32f7.chunk.js",
     "FullPizza.js": "/roma-pizza/static/js/FullPizza.de2409de.chunk.js",
     "NotFound.css": "/roma-pizza/static/css/NotFound.6c03ab77.chunk.css",
@@ -10,7 +10,7 @@
     "static/media/pizza-logo.svg": "/roma-pizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
     "index.html": "/roma-pizza/index.html",
     "main.b6b059b4.css.map": "/roma-pizza/static/css/main.b6b059b4.css.map",
-    "main.c7b0df24.js.map": "/roma-pizza/static/js/main.c7b0df24.js.map",
+    "main.3dcadd87.js.map": "/roma-pizza/static/js/main.3dcadd87.js.map",
     "Cart.b9dc32f7.chunk.js.map": "/roma-pizza/static/js/Cart.b9dc32f7.chunk.js.map",
     "FullPizza.de2409de.chunk.js.map": "/roma-pizza/static/js/FullPizza.de2409de.chunk.js.map",
     "NotFound.6c03ab77.chunk.css.map": "/roma-pizza/static/css/NotFound.6c03ab77.chunk.css.map",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.b6b059b4.css",
-    "static/js/main.c7b0df24.js"
+    "static/js/main.3dcadd87.js"
   ]
 }
