@@ -20,6 +20,7 @@ function App() {
     <Routes>
       <Route path="/" element={<MainLayout />}>
         <Route path="" element={<Home />}></Route>
+        <Route path="/roma-pizza/" element={<Home />}></Route>
         <Route
           path="/cart"
           element={
