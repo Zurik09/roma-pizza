@@ -33,7 +33,7 @@ const CartItemBlock: React.FC<CartItemProps> = ({
   };
 
   const onClickRemove = () => {
-    if (window.confirm('Are you sure want to remove?')) {
+    if (window.confirm('Удалить выбранную пиццу?')) {
       dispatch(removeItem(id));
     }
   };
